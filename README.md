@@ -27,7 +27,7 @@ Para executar o projeto é necessário ter o ambiente de desenvolvimento Flutter
 [Montando o ambiente de desenvolvimento Flutter](https://flutter.dev/docs/get-started/install)
 
 ```
-    git clone https://github.com/siegjor/app-teste-bouncycastle.git
-    cd ./app-teste-bouncycastle-main
-    flutter run
+git clone https://github.com/siegjor/app-teste-bouncycastle.git
+cd ./app-teste-bouncycastle-main
+flutter run
 ```
