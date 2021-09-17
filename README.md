@@ -17,3 +17,17 @@ Contém o certificado, a assinatura e a chave privada (não utilizada no código
 
 ### android/libs
 Contém os arquivos .jar do Bouncy Castle, bcprov-jdk15to18-169.jar e bcpkix-jdk15on-169.jar
+
+# Bibliotecas
+A única biblioteca de terceiros utilizada é a do Bouncy Castle, instalada por meio de seu arquivo .jar
+
+# Como executar o projeto
+Para executar o projeto é necessário ter o ambiente de desenvolvimento Flutter instalado em sua máquina
+
+[Montando o ambiente de desenvolvimento Flutter](https://flutter.dev/docs/get-started/install)
+
+```
+    git clone https://github.com/siegjor/app-teste-bouncycastle.git
+    cd ./app-teste-bouncycastle-main
+    flutter run
+```
