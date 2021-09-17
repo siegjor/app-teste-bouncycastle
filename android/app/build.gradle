@@ -50,7 +50,6 @@ flutter {
 }
 
 dependencies {
-    //implementation files('..\\libs\\bcprov-jdk15on-1.69.jar')
     implementation files('..\\libs\\bcpkix-jdk15on-169.jar')
     implementation files('..\\libs\\bcprov-jdk15to18-169.jar')
 }
